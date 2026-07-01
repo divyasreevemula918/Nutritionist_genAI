@@ -99,6 +99,18 @@ streamlit run app.py
 
 ---
 
+## Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44fbf51f-7902-469b-b7f1-387616c5f211" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5a6d058-33af-44bb-a855-97a0a59ff3b7" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b802a62f-d828-4cb2-bbde-77e5c9c6539b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7dc949cb-1a7b-456c-825d-745e811d5acc" />
+
+
+
+
+## Deployement Link
+https://nutritionistgenai-hutxajmpmdpsbdxpgceegn.streamlit.app/
+
 ## 💡 Future Enhancements
 
 * Meal planning
