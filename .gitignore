@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite Database
+*.sqlite3
+*.db
+
+# Build Files
+build/
+dist/
+*.egg-info/
+
+# Python Packaging
+*.egg
+*.whl
+
+# Streamlit
+.streamlit/secrets.toml
+
+# MLflow
+mlruns/
+
+# LangSmith
+.langsmith/
+
+# ChromaDB
+chroma/
+chroma_db/
+
+# FAISS
+*.faiss
+*.pkl
+
+# Vector Databases
+vectorstore/
+db/
+
+# Model Files
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Hugging Face Cache
+.cache/
+huggingface/
+hf_cache/
+
+# Temporary Files
+temp/
+tmp/
+
+# PDF and Uploaded Files (optional)
+uploads/
+data/
+
+# OS Files
+*.swp
+*.swo
